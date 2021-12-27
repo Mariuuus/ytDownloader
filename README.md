@@ -1,6 +1,6 @@
 # ytDownloader
 ### Benutzung des Skriptesn (Deutsch)
-*Skript per shell oder cmd öffnen
+*Skript per shell oder cmd öffnen oder einfach normal starten.
 
 example (german)
 Installiere bitte pyTube vorher.
@@ -20,7 +20,7 @@ python ytdownloaderGerman.py
 Dann dem Skript folgen
 
 ### How to use the Skript (English)
-*open the Skript file via cmd or shell
+*open the Skript file via cmd or shell or normal
 *then follow the Skript
 
 example (english)
