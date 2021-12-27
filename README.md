@@ -8,6 +8,10 @@ Installiere bitte pyTube vorher.
 pip install pytube
 pip install pytube3
 ```
+oder
+```
+pip install git + https: //github.com/nficano/pytube
+```
 Navigiere zum ordner mit dem Skript und öffne dieses.
 ```
 cd {path}
@@ -24,6 +28,10 @@ Make sure you installed these
 ```
 pip install pytube
 pip install pytube3
+```
+or
+```
+pip install git + https: //github.com/nficano/pytube
 ```
 Navigate to the Scripts Folder and open the File via 
 ```
