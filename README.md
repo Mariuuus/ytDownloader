@@ -38,4 +38,4 @@ Navigate to the Scripts Folder and open the File via
 cd {path}
 python ytdownloaderEnglish.py
 ```
-Dann dem Skript folgen
+then follow the script
