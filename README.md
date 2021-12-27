@@ -10,7 +10,7 @@ pip install pytube3
 ```
 oder
 ```
-pip install git + https: //github.com/nficano/pytube
+git clone git://github.com/pytube/pytube.git
 ```
 Navigiere zum ordner mit dem Skript und öffne dieses.
 ```
@@ -31,7 +31,7 @@ pip install pytube3
 ```
 or
 ```
-pip install git + https: //github.com/nficano/pytube
+git clone git://github.com/pytube/pytube.git
 ```
 Navigate to the Scripts Folder and open the File via 
 ```
